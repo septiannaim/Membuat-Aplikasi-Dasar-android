@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Cars Apps</string>
+    <string name="welcome_my_friend">Welcome To automotive</string>
+    <string name="lokasi_horror_indonesia">Types of car brands in the world</string>
+    <string name="don_t_be_scared">DON\'T BE SCARED</string>
+    <string name="name_owner">Septian Ghulal Nur N</string>
+    <string name="email">naimplung@gmail.com</string>
+    <string name="activity_about_title">About Me</string>
+    <string name="about_me">My name is Septian Ghuslal Nur Naim or you just can call me Naim. I am Diploma III student majoring Information Technology at Brawijaya University. I have a great interest at Mobile Development and Back-end Web developer. I love to work in team because different perspectives of people can build a good ideas together. Just hit me up if you wanna ask something!"</string>
+    <string name="detail_img">Nissan GT-R ( Gran Turismo–Racing ; kode model: R35 ; bahasa Jepang: 日産・GT-R; Nissan GT-R ) adalah mobil yang dibuat oleh merek Jepang Nissan sejak tahun 2007. Memiliki tata letak tempat duduk 2+2 dan dianggap sebagai mobil sport dan grand tourer . Mesinnya dipasang di tengah depan dan menggerakkan keempat roda . Ia menggantikan Nissan Skyline GT-R , varian lebih cepat dari Nissan Skyline . Meski model ini merupakan generasi keenam yang menyandang nama GT-R, namun tidak lagi menjadi bagian dari jajaran Skyline. Mobil ini dibangun di atas platform PM , berasal dari platform FM yang digunakan pada model Skyline dan Nissan Z. Produksi dilakukan di jalur produksi bersama di pabrik Nissan Tochigi di Jepang.</string>
+    <string name="share">Share</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="github">Github</string>
+    <string name="gmail">Gmail</string>
+    <string name="about">About</string>
+</resources>
